@@ -5,7 +5,6 @@
     "alfred_config",
     "allv2ray",
     "alo_v2rayng",
-    "am20094",
     "amaxx27m",
     "antifilterservice",
     "antimeli",
@@ -55,6 +54,7 @@
     "daily_configs",
     "daredevill_404",
     "darkhub_vpn",
+    "darkline_net",
     "dellta_vpn",
     "deragv2ray",
     "digiv2ray",
@@ -83,6 +83,7 @@
     "filter_breaker",
     "filterk0sh",
     "finovpn",
+    "fit_vpn_helper",
     "flyv2ray",
     "fnet00",
     "freakconfig",
@@ -133,6 +134,7 @@
     "mester_v2ray",
     "miov2ray",
     "mr_technofa",
+    "mrdarc",
     "mrsoulb",
     "msv2ray",
     "narenjvpn",
@@ -255,6 +257,7 @@
     "vp22ray",
     "vpn_ioss",
     "vpn_kanfik",
+    "vpn_market_v2",
     "vpn_mikey",
     "vpn_proxy_custom",
     "vpn_room",
@@ -274,6 +277,5 @@
     "xpnteam",
     "yejoriconfig",
     "zdyz2",
-    "zedbaz_vpn",
-    "zibanabz"
+    "zedbaz_vpn"
 ]
